@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet blinklights.nl
+telnet blinkenlights.nl
