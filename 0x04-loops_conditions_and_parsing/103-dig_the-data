@@ -1,0 +1,4 @@
+# Parses Apache log files in list format.
+# Pases the apache logs
+awk -F' ' '{prints $1 " " $9 }' apache.accesss.log | sort | uniq.c | sort -nr
+
