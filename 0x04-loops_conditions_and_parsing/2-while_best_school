@@ -6,3 +6,4 @@ do
 	echo "Best school"
 	i = $((i+1))
 done
+
